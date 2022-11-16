@@ -21,7 +21,7 @@ Este projeto tem como objetivo a construção de um data warehouse com base em u
 </div>
 
 <p>
-    Após a implementação dos dois bancos com diferentes abordagem de modelagem, mediu-se a performance de consulta para um determidado indicador e verificou-se a melhor performance do modelo dimensional conforme diretrizes propostas por Ralph Kimball em seu livro <a href='https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional-ebook/dp/B00DRZX6XS/ref=sr_1_1?qid=1668083125&refinements=p_27%3ARalph+Kimball&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678'>The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling</a>.
+    Após a implementação dos dois bancos com diferentes abordagem de modelagem, avaliou-se os benefícios do modelo dimensional conforme diretrizes propostas por Ralph Kimball em seu livro <a href='https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional-ebook/dp/B00DRZX6XS/ref=sr_1_1?qid=1668083125&refinements=p_27%3ARalph+Kimball&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678'>The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling</a>.
 </p>
 
 <p>
